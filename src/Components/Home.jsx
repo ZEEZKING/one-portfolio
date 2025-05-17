@@ -7,17 +7,17 @@ const Home = () => {
   return (
     <div
       name="home"
-      className="h-screen w-full bg-gradient-to-b from-black via-black to-gray-800"
+      className="min-h-screen w-full bg-gradient-to-b from-black via-black to-gray-800 pt-20 md:pt-0"
     >
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl py-2 my-2 font-bold text-white">
-            I'm a Full Stack Developer
+            I'm a Full Stack Software Engineer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 1 years of experience building and desgining software.
-            Currently, I love to work on web application using technologies like
-            React, Tailwind, and Node JS.
+          I build robust, scalable web applications with a strong focus on backend architecture, security, and performance.  
+          Experienced with C#, .NET, Node.js, and cloud-based solutions, I enjoy developing reliable APIs and seamless integrations.  
+          I also bring a keen eye for clean, maintainable frontend interfaces using React and Tailwind CSS — ensuring end-to-end excellence.
           </p>
 
           <div>
